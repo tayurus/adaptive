@@ -1,0 +1,10 @@
+.secondary-block__label{
+  background-color: #221b28;
+  font-size: 30px;
+  height: 245px;
+  line-height: 245px;
+  vertical-align: middle;
+  text-align: center;
+  width: 793px;
+  color: rgba(255,255,255,0.5);
+}

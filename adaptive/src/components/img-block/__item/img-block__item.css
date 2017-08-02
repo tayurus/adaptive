@@ -1,0 +1,8 @@
+.img-block__item{
+  width: 342px;
+  height: 296px;
+  background-color: #5b06a2;
+  overflow: hidden;
+  background-position: center;
+  background-size: cover;
+}

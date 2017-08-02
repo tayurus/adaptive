@@ -1,0 +1,11 @@
+.secondary-block__arrow{
+  background-color: #bd2e84;
+  font-weight: bold;
+  font-size: 45px;
+  height: 245px;
+  line-height: 245px;
+  vertical-align: middle;
+  text-align: center;
+  width: 231px;
+  color: #fff;
+}

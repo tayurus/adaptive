@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  font-family: Montserrat;
+}
+
+.header-content{
+    margin: auto;
+}
+
+.main-block{
+  margin: auto;
+  overflow: hidden;
+}
+
+.secondary-block{
+  margin: auto;
+}
+.img-block{
+  margin: auto;
+}
+
+.footer{
+  height: 560px;
+  background-color: #ececec;
+  overflow: hidden;
+}
+
+.footer-content{
+  width: 1024px;
+  margin: 50px auto 0px auto;
+}
+
+.text-block{
+  margin-left: 80px;
+  margin-top: 54px;
+}

@@ -1,0 +1,17 @@
+.img-block{
+  width: 1024px;
+  height: 296px;
+  display: flex;
+}
+
+.img-block .img-block__item:nth-child(1){
+  background-image: url('img/1.png')
+}
+
+.img-block .img-block__item:nth-child(2){
+  background-image: url('img/2.png')
+}
+
+.img-block .img-block__item:nth-child(3){
+  background-image: url('img/3.png')
+}
